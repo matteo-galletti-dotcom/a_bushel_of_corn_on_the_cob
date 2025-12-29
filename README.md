@@ -1,4 +1,4 @@
-# Perlin Noise Character Grid
+# a_bushel_of_corn_on_the_cob
 
 Animated grid of Unicode characters driven by Perlin noise, with varying size and rotation.
 
